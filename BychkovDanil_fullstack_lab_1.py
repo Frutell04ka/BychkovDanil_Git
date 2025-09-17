@@ -1,7 +1,6 @@
 def main():
- print('My first git program')
- print('And I change code every day')
+ print('Бычков Данил')
+ print('ИВТ-ИВС-202Б 1-Подгруппа')
+ print("17.09.2025")
 if __name__ == '__main__':
  main()
-
-print("Bychkov Danil")
